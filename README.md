@@ -6,7 +6,7 @@ Sinh viên thực hiện:
 	Thái Văn Trung
 	Trần Đức Việt
 	Trương Trần Tâm
-	Lê Thị Kim ĐÀO
+	Lê Thị Kim Đào
 NHÓM: 05
 
 1. **Yêu Cầu Hệ Thống:**
